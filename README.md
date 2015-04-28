@@ -1,2 +1,2 @@
 # acm
-solutions for acm problem
+solutions for acm problems
